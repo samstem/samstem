@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: edbook
+Version: 0.2.0
+Summary: desc
+Home-page: https://github.com/edbook
+Author: Jon Levy
+Author-email: nonni@nonni.cc
+License: MIT
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10.10

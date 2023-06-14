@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="is" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>5. Viðbætur &mdash; Sniðmát fyrir Edbook </title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/copybutton.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/eqt.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/datacamp-custom.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/button.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/edbook.css" type="text/css" />
+    <link rel="shortcut icon" href="../_static/favicon_2.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script src="../_static/clipboard.min.js"></script>
+        <script src="../_static/copybutton.js"></script>
+        <script src="../_static/js/eqt.js"></script>
+        <script src="../_static/translations.js"></script>
+        <script src="https://cdn.datacamp.com/datacamp-light-latest.min.js"></script>
+        <script async="async" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script src="../_static/js/theme.js"></script>
+
+<!-- hoverrole.py css code -->
+<style type="text/css">
+    a.tooltip {
+        outline: none;
+        border-bottom: thin dotted;
+        background: #ffeedd
+    }
+
+    a.tooltip strong {
+        line-height: 30px;
+    }
+
+    a.tooltip:hover {
+        text-decoration: none;
+    }
+
+    a.tooltip span {
+        z-index: 10;
+        display: none;
+        padding: 14px 20px;
+        margin-top: -30px;
+        margin-left: 12px;
+        width: 310px;
+        line-height: 16px;
+    }
+
+    a.tooltip:hover span {
+        display: inline;
+        position: absolute;
+        color: #111;
+        border: 1px solid #DCA;
+        background: #fffAF0;
+    }
+
+    .callout {
+        z-index: 20;
+        position: absolute;
+        top: 30px;
+        border: 0;
+        left: -12px;
+    }
+
+    /*CSS3*/
+    a.tooltip span {
+        border-radius: 4px;
+        box-shadow: 5px 5px 8px #CCC;
+    }
+</style>
+<!-- End hoverrole.py css code -->
+
+<style type="text/css">
+    .sagecell .CodeMirror-scroll {
+        overflow-y: hidden;
+        overflow-x: auto;
+    }
+
+    .sagecell .CodeMirror {
+        height: auto;
+    }
+
+    /* - Begin equation reference style - */
+    h6.eqno {
+        display: inline-block;
+        padding-left: 10px;
+    }
+
+    h6 .headerlink {
+        display: inline-block !important;
+    }
+
+    h6 .headerlink:after {
+        visibility: hidden !important;
+    }
+
+    h6 .headerlink:hover:after {
+        visibility: visible !important;
+    }
+
+    .eqno:hover>.headerlink:after {
+        visibility: visible !important;
+    }
+
+    table>caption>.headerlink {
+        visibility: hidden !important;
+    }
+
+    table>caption>.headerlink {
+        visibility: hidden !important;
+    }
+
+    /* - End - */
+</style>
+
+
+
+    <link rel="index" title="Atriðaskrá" href="../genindex/" />
+    <link rel="search" title="Leit" href="../search/" />
+    <link rel="next" title="Orðaskrá" href="../ordaskra/" />
+    <link rel="prev" title="4. Kafli" href="../kafli04/" />
+
+
+
+<!--	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>-->
+<script type="text/javascript" src="https://cdn.geogebra.org/apps/deployggb.js"></script>
+<script>ggbAppletId = [];</script>
+
+
+ 
+
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            Sniðmát fyrir Edbook
+              <img src="../_static/haskoli_islands-edbook.svg" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../kafli01/">1. Inngangur</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kafli02/">2. Undirbúningur</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kafli03/">3. Búa til nýtt verkefni</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../kafli04/">4. Kafli</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">5. Viðbætur</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#geogebra">5.1. Geogebra</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#daemi">5.1.1. Dæmi</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#togglebutton">5.2. Togglebutton</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#takkar-fyrir-hlekki-sphinxcontrib-custombutton">5.3. Takkar fyrir hlekki (sphinxcontrib-custombutton)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#panopto">5.4. Panopto</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#youtube">5.5. Youtube</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#math-katex">5.6. Math - Katex</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#datacamp-extensions">5.7. Datacamp extensions</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#python">5.7.1. Python</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#r">5.7.2. R</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#hoverrole-extension">5.8. Hoverrole Extension</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#google-analytics-extension">5.9. Google Analytics Extension</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../ordaskra/">Orðaskrá</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">Sniðmát fyrir Edbook</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active"><span class="section-number">5. </span>Viðbætur</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/edbook/haskoli-islands/blob/master/projects/tmp001g/kafli05.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="vibaetur">
+<h1><span class="section-number">5. </span>Viðbætur<a class="headerlink" href="#vibaetur" title="Permalink to this heading"></a></h1>
+<section id="geogebra">
+<h2><span class="section-number">5.1. </span>Geogebra<a class="headerlink" href="#geogebra" title="Permalink to this heading"></a></h2>
+<p>Hægt er að greypa inn Geogebra-forrit með <a class="reference external" href="https://github.com/edbook/sphinxcontrib-geogebra">sphinxcontrib-geogebra</a> viðbótinni.
+Vista þarf Geogebra-skjalið á geogebra.org þar sem það fær auðkenni, en auðkennið
+er aftasti hlutinn af vefslóðinni.
+Forritið er svo sett inn með:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">..</span> <span class="n">ggb</span><span class="p">::</span> <span class="n">abcdefgh</span>
+</pre></div>
+</div>
+<p>Sjá <a class="reference external" href="https://github.com/edbook/sphinxcontrib-geogebra#options">https://github.com/edbook/sphinxcontrib-geogebra#options</a> fyrir fleiri stillingar.</p>
+<section id="daemi">
+<h3><span class="section-number">5.1.1. </span>Dæmi<a class="headerlink" href="#daemi" title="Permalink to this heading"></a></h3>
+<div id="3woa2BTzqIXj9dm87sBekrTbH74AHb"></div>
+<script>
+var ggbApp_3woa2BTzqIXj9dm87sBekrTbH74AHb = new GGBApplet({
+"appName": "calculator", 
+"width": 700, 
+"height": 400, 
+"material_id": "mkyudgwh", 
+"preventFocus": true, 
+"enableShiftDragZoom": false 
+}, true);
+ggbAppletId["3woa2BTzqIXj9dm87sBekrTbH74AHb"] = ggbApp_3woa2BTzqIXj9dm87sBekrTbH74AHb;
+</script>
+<p></p>
+</section>
+</section>
+<section id="togglebutton">
+<h2><span class="section-number">5.2. </span>Togglebutton<a class="headerlink" href="#togglebutton" title="Permalink to this heading"></a></h2>
+<div class="setning dropdown admonition">
+<p class="admonition-title">Útleiðasla á hreyfijöfnum</p>
+<p>Hröðun er afleiða hraðans og því má lýsa sem afleiðujöfnu:</p>
+<div class="math notranslate nohighlight">
+\[\begin{split}\begin{aligned}
+  &amp;\text{Upphaflega jafnan} &amp;    a &amp;=\frac{dv(t)}{dt} \\
+  &amp;\text{Umritum} &amp;    dv(t) &amp;=  a\cdot dt \\
+  &amp;\text{Heildum beggja vegna} &amp;     \int_0^t dv &amp;= a \cdot \int_0^t dt \\
+  &amp;\text{ } &amp;       v(t)-v(0) &amp;= a\cdot (t-0) \\
+  &amp;\text{} &amp; v(t) &amp;= a\cdot t +v_0
+\end{aligned}\end{split}\]</div>
+<p>sem er einmitt jafnan fyrir hraða sem fall af tíma.</p>
+</div>
+</section>
+<section id="takkar-fyrir-hlekki-sphinxcontrib-custombutton">
+<h2><span class="section-number">5.3. </span>Takkar fyrir hlekki (sphinxcontrib-custombutton)<a class="headerlink" href="#takkar-fyrir-hlekki-sphinxcontrib-custombutton" title="Permalink to this heading"></a></h2>
+<p>Viðbótin <a class="reference external" href="https://github.com/sphinxcontrib-custombutton">sphinxcontrib-custombutton</a>
+er fyrir sérsniðna takka með hlekkjum. Skráin <code class="docutils literal notranslate"><span class="pre">_static/button.css</span></code> geymir stillingar
+fyrir útlit takkans.</p>
+
+<a href="http://edbook.hi.is">
+    <span class="button">Edbook home page</span>
+</a></section>
+<section id="panopto">
+<h2><span class="section-number">5.4. </span>Panopto<a class="headerlink" href="#panopto" title="Permalink to this heading"></a></h2>
+<p>Hægt er að greypa inn Panopto-myndbönd með</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">..</span> <span class="n">panopto</span><span class="p">::</span> <span class="n">ab027f4b</span><span class="o">-</span><span class="mi">88</span><span class="n">b9</span><span class="o">-</span><span class="mi">4647</span><span class="o">-</span><span class="n">af20</span><span class="o">-</span><span class="n">afdf0092304d</span>
+    <span class="p">:</span><span class="n">width</span><span class="p">:</span> <span class="mi">100</span><span class="o">%</span>
+    <span class="p">:</span><span class="n">height</span><span class="p">:</span> <span class="mi">400</span>
+</pre></div>
+</div>
+<p>Hér er <cite>ab027f4b-88b9-4647-af20-afdf0092304d</cite> auðkennið sem myndbandið hefur á
+Panopto-þjóninum. Til að finna það þá er best að fara inn á hi.cloud.panopto.eu
+finna myndbandið og smella á <cite>Settings</cite> og undir <cite>Viewer Link</cite> er auðkennið það sem
+stendur fyrir aftan <cite>id=</cite>.</p>
+<figure><iframe src='https://hi.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ab027f4b-88b9-4647-af20-afdf0092304d' width=100% height=400 style=padding: 0px; border: 1px solid #464646; frameborder='0'></iframe></figure></section>
+<section id="youtube">
+<h2><span class="section-number">5.5. </span>Youtube<a class="headerlink" href="#youtube" title="Permalink to this heading"></a></h2>
+</section>
+<section id="math-katex">
+<h2><span class="section-number">5.6. </span>Math - Katex<a class="headerlink" href="#math-katex" title="Permalink to this heading"></a></h2>
+<p>Math on page is rendered with Katex.
+Katex is faster in works for almost all latex syntax, there are documented cases of examples
+known to cause troubles in the katex-extension sub-directory</p>
+<p>In line: <span class="math notranslate nohighlight">\(\lim_{x\to a^-} f(x) = \pm \infty\)</span>, or</p>
+<div class="math notranslate nohighlight">
+\[\overline{x}=\frac{M_{x=0}}{m} = \frac{\sum_{i=1}^n x_im_i}{\sum_{i=1}^n m_i}.\]</div>
+</section>
+<section id="datacamp-extensions">
+<h2><span class="section-number">5.7. </span>Datacamp extensions<a class="headerlink" href="#datacamp-extensions" title="Permalink to this heading"></a></h2>
+<section id="python">
+<h3><span class="section-number">5.7.1. </span>Python<a class="headerlink" href="#python" title="Permalink to this heading"></a></h3>
+<div data-datacamp-exercise data-lang="python"><code data-type="sample-code">import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+
+fig = plt.figure()
+
+def f(x, y):
+    return np.sin(x) + np.cos(y)
+
+x = np.linspace(0, 2 * np.pi, 120)
+y = np.linspace(0, 2 * np.pi, 100).reshape(-1, 1)
+
+im = plt.imshow(f(x, y), animated=True)
+
+def updatefig(*args):
+    global x, y
+    x += np.pi / 15.
+    y += np.pi / 20.
+    im.set_array(f(x, y))
+    return im,
+
+ani = animation.FuncAnimation(fig, updatefig, interval=50, blit=True)
+plt.show()</code></div></section>
+<section id="r">
+<h3><span class="section-number">5.7.2. </span>R<a class="headerlink" href="#r" title="Permalink to this heading"></a></h3>
+<div data-datacamp-exercise data-lang="r"><code data-type="sample-code">options(scipen=999)  # turn-off scientific notation like 1e+48
+library(ggplot2)
+theme_set(theme_bw())  # pre-set the bw theme.
+data("midwest", package = "ggplot2")
+
+gg <- ggplot(midwest, aes(x=area, y=poptotal)) +
+    geom_point(aes(col=state, size=popdensity)) +
+    geom_smooth(method="loess", se=F) +
+    xlim(c(0, 0.1)) +
+    ylim(c(0, 500000)) +
+    labs(subtitle="Area Vs Population",
+    y="Population",
+    x="Area",
+    title="Scatterplot",
+    caption = "Source: midwest")
+
+gg</code></div></section>
+</section>
+<section id="hoverrole-extension">
+<h2><span class="section-number">5.8. </span>Hoverrole Extension<a class="headerlink" href="#hoverrole-extension" title="Permalink to this heading"></a></h2>
+<p>Þetta er texti um <a class="tooltip"  href="https://www.stae.is/os/leita/analysis"  target="_blank">
+  stærðfræðigreiningu
+    <span>en: <i>analysis, mathematical analysis</i>
+    
+      <staelink style="font-size:80%;"><br><strong>Smelltu</strong> fyrir ítarlegri þýðingu.</staelink>
+    
+  </span>
+</a> og <a class="tooltip"  href="https://www.stae.is/os/leita/differential_equation"  target="_blank">
+  afleiðujöfnur
+    <span>en: <i>differential equation</i>
+    
+      <staelink style="font-size:80%;"><br><strong>Smelltu</strong> fyrir ítarlegri þýðingu.</staelink>
+    
+  </span>
+</a>. Fleiri hugtök: <a class="tooltip" target="_blank">
+  heildi
+  <span>
+    <staelink style="line-height:4px; font-size:80%;">
+      Ekki fannst þýðing á hugtakinu: <i>heildi</i>
+    </staelink>
+  </span>
+</a>, <a class="tooltip"  href="https://www.stae.is/os/leita/curve"  target="_blank">
+  ferill
+    <span>en: <i>curve, curved line, line, trajectory</i>
+    
+      <staelink style="font-size:80%;"><br><strong>Smelltu</strong> fyrir ítarlegri þýðingu.</staelink>
+    
+  </span>
+</a>, <a class="tooltip"  href="https://www.stae.is/os/leita/mapping"  target="_blank">
+  vörpun
+    <span>en: <i>mapping, record, transform, transformation</i>
+    
+      <staelink style="font-size:80%;"><br><strong>Smelltu</strong> fyrir ítarlegri þýðingu.</staelink>
+    
+  </span>
+</a>.</p>
+<p>Auto-generated list of translated terms:</p>
+<p><em>deildajafna</em> : differential equation</p>
+<p><em>ferill</em> : curve, curved line, line, trajectory</p>
+<p><em>stærðfræðigreining</em> : analysis, mathematical analysis</p>
+<p><em>vörpun</em> : mapping, record, transform, transformation</p>
+</section>
+<section id="google-analytics-extension">
+<h2><span class="section-number">5.9. </span>Google Analytics Extension<a class="headerlink" href="#google-analytics-extension" title="Permalink to this heading"></a></h2>
+<p>This extension enables the use of Google Analytics by inserting the tracking code on each page (except the index) and by inserting your tracking ID inside conf.py you should be able to monitor the use of your site.</p>
+<p>This extension also tracks how far users have scrolled on the page. When a new section is scrolled into view a Google Analytics event is fired. These events can be seen in real time in the Javascript console (Chrome: CTRL+Shift+I OR Options-&gt; More Tools -&gt; Developer Tools).</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../kafli04/" class="btn btn-neutral float-left" title="4. Kafli" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../ordaskra/" class="btn btn-neutral float-right" title="Orðaskrá" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p></p>
+  </div>
+
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+<script>
+    window.addEventListener("load", function () {
+        for (var i in ggbAppletId) {
+            ggbAppletId[i].inject(i);
+        }
+    });
+</script>
+
+
+ 
+
+<style>
+    /* Sidebar header (and topbar for mobile) */
+    .wy-side-nav-search,
+    .wy-nav-top {
+       /* HI: #10099F, VoN: #EB7125, orginal #01447B */
+       background: #10099F;
+    }
+
+    /* Sidebar */
+    .wy-nav-side {
+      /* orginal #343131, HÍ grár dekkri: #EEEEEE, HÍ svartur: #262626 */
+      background: #262626;
+    }
+</style>
+
+
+</body>
+</html>

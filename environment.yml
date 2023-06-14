@@ -1,0 +1,30 @@
+name: samstem
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pypandoc=1.*
+  - sphinx=6.*
+  - python=3.10.*
+  - sphinx-rtd-theme=1.2.*
+  - sphinxcontrib-youtube
+  - pyyaml=6.*
+  - jinja2=3.*
+  - sphinx-autobuild=2021.3.14
+  - sphinx-togglebutton=0.3.*
+  - pip=23.*
+  - pip:
+    - typer[all]
+    - rich
+    - -e ./cli
+    - sphinxcontrib-katex==0.9.4
+    - sphinx-copybutton==0.5.1
+    - sphinxcontrib-custombutton @ https://github.com/edbook/sphinxcontrib-custombutton/archive/refs/tags/v2.0.zip
+    - sphinxcontrib-datacamp @ https://github.com/edbook/sphinxcontrib-datacamp/archive/refs/tags/v2.0.zip
+    - sphinxcontrib-geogebra @ https://github.com/edbook/sphinxcontrib-geogebra/archive/refs/tags/v2.0.zip
+    - sphinxcontrib-hoverrole @ https://github.com/edbook/sphinxcontrib-hoverrole/archive/refs/tags/v2.0.15.zip
+    - sphinxcontrib-panopto @ https://github.com/edbook/sphinxcontrib-panopto/archive/refs/tags/v2.0.1.zip
+    - sphinxcontrib-questionnaire @ https://github.com/edbook/sphinxcontrib-questionnaire/archive/refs/tags/v2.0.9.zip
+    - sphinxcontrib-sagecell @ https://github.com/edbook/sphinxcontrib-sagecell/archive/refs/tags/v2.0.zip
+    - sphinxcontrib-scrolldepth @ https://github.com/edbook/sphinxcontrib-scrolldepth/archive/refs/tags/v2.0.zip
+    - sphinxcontrib-toggleblock @ https://github.com/edbook/sphinxcontrib-toggleblock/archive/refs/tags/v2.0.zip

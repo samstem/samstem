@@ -1,0 +1,12 @@
+setup.py
+edbook/__init__.py
+edbook/main.py
+edbook.egg-info/PKG-INFO
+edbook.egg-info/SOURCES.txt
+edbook.egg-info/dependency_links.txt
+edbook.egg-info/entry_points.txt
+edbook.egg-info/top_level.txt
+edbook/conf/__init__.py
+edbook/conf/settings.py
+edbook/lib/__init__.py
+edbook/lib/utils.py

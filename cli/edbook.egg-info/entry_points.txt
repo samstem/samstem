@@ -1,0 +1,2 @@
+[console_scripts]
+edbook = edbook.main:app
