@@ -34,20 +34,19 @@ Fræði
 
   .. math::
 
-     \begin{aligned}
          \rho = \frac{m}{V},
-     \end{aligned}
 
-  þar sem :math:`m` er massi hlutarins og :math:`V` er rúmmál hans.
-| Þar sem að þetta verkefni snýr aðallega að því að læra óvissureikninga
-  þá er gott að rifja upp helstu reiknireglur varðandi óvissur. Látum
-  :math:`A \pm \Delta A`, :math:`B \pm \Delta B`, :math:`C \pm \Delta C`
-  og :math:`D \pm \Delta D` vera mælistærðir. Þá gildir að:
+þar sem :math:`m` er massi hlutarins og :math:`V` er rúmmál hans.
+Þar sem að þetta verkefni snýr aðallega að því að læra óvissureikninga
+þá er gott að rifja upp helstu reiknireglur varðandi óvissur. Látum
+:math:`A \pm \Delta A`, :math:`B \pm \Delta B`, :math:`C \pm \Delta C`
+og :math:`D \pm \Delta D` vera mælistærðir. Þá gildir að:
 
-  .. math::
+.. math::
 
      \begin{aligned}
-         \frac{A \pm \Delta A}{\left( B \pm \Delta B\right)\left( C \pm \Delta C\right)\left( D \pm \Delta D\right)} = \frac{A}{BCD} \pm \frac{A}{BCD}\left( \frac{\Delta A}{A} + \frac{\Delta B}{B} + \frac{\Delta C}{C} + \frac{\Delta D}{D} \right).
+         & \frac{A \pm \Delta A}{\left( B \pm \Delta B\right)\left( C \pm \Delta C\right)\left( D \pm \Delta D\right)} \\
+         =& \frac{A}{BCD} \pm \frac{A}{BCD}\left( \frac{\Delta A}{A} + \frac{\Delta B}{B} + \frac{\Delta C}{C} + \frac{\Delta D}{D} \right).
      \end{aligned}
 
 Úrvinnsla

@@ -3,9 +3,9 @@
 
 |auth_title|
 
-.. figure:: figures/forsidumynd.png
-   :alt: 
-
+.. image:: figures/forsidumynd.png
+  :width: 300
+  :align: center
 
 Í þessum hluta munum við kynna helstu aðferðir sem við beitum í
 verklegri eðlisfræði. Sökum Covid-19 þurfum við að finna betri leið til

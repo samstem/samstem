@@ -58,9 +58,9 @@ sólina, þ.e.
 Við getum umritað þriðja lögmálið þannig að það sé línulegt:
 
 .. math::
+   :label: 3Kepler
 
    \begin{aligned}
-    \label{eq:3Kepler}
        a^3 = \frac{GM}{4\pi^2}T^2.
    \end{aligned}
 
@@ -79,7 +79,7 @@ Við getum umritað þriðja lögmálið þannig að það sé línulegt:
    ========= ========= =========== ===========
 
 #. Gerið graf af :math:`a^3` sem fall af :math:`T^2` samkvæmt jöfnu
-   (`[eq:3Kepler] <#eq:3Kepler>`__) og ákvarðið massa sólarinnar með
+   :eq:`3Kepler` og ákvarðið massa sólarinnar með
    óvissu.
 
 #. Notið Stellarium (eða myndböndin) til þess að gera sambærilega töflu

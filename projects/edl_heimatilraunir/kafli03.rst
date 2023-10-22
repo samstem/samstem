@@ -1,11 +1,9 @@
 Grunntónn vatnsflösku
 ---------------------
 
-.. container:: wrapfigure
-
-   r1.5in |image|
-
-.. _inngangur-2:
+.. image:: figures/hell.png
+  :width: 300
+  :align: center
 
 Inngangur
 ~~~~~~~~~
@@ -20,7 +18,7 @@ vatnsins, :math:`V_{\text{vatn}}`, í flöskunni.
 
 Tækjabúnaður
 ~~~~~~~~~~~~
-
+ 
 -  Um það bil :math:`\SI{1}{L}` flaska sem hægt er að blása á stútinn á.
 
 -  Millilítramál eða vog.
@@ -54,7 +52,9 @@ vatni. En þar með er:
 .. math::
 
    \begin{aligned}
-       \ln(P+\Delta P) +\gamma \ln(V + \Delta V) = \ln(P) + \gamma \ln(V) \implies \ln(P) + \frac{\Delta P}{P} + \gamma \ln(V) + \gamma \frac{\Delta V}{V} = \ln(P) + \gamma \ln(V)
+       & \ln(P+\Delta P) +\gamma \ln(V + \Delta V) = \ln(P) + \gamma \ln(V) \\
+       \implies& \ln(P) + \frac{\Delta P}{P} + \gamma \ln(V) + \gamma \frac{\Delta V}{V}
+       = \ln(P) + \gamma \ln(V)
    \end{aligned}
 
 Þar sem við höfum notað að
@@ -73,16 +73,23 @@ kraftajöfnu:
 .. math::
 
    \begin{aligned}
-       \rho_{\text{loft}} Az \Ddot{x} = \Delta P A = -\gamma \frac{\Delta V}{V} P_0 A = - \frac{\gamma P_0 A^2}{V_0 - V_{\text{vatn}}}x
+      \rho_{\text{loft}} Az \ddot{x} = \Delta P A 
+       = -\gamma \frac{\Delta V}{V} P_0 A 
+       = - \frac{\gamma P_0 A^2}{V_0 - V_{\text{vatn}}}x
    \end{aligned}
 
 Svo við ályktum að sveiflutíðni loftsins er gefin með:
 
 .. math::
+   :label: eq_tidni
 
    \begin{aligned}
-    \label{eq:tidni}
-       \omega = \sqrt{\frac{\gamma P_0 A}{\rho_{\text{loft}}z (V_0 - V_{\text{vatn}})}} \implies f = \frac{\omega }{2\pi} = \frac{1}{2\pi}\sqrt{\frac{\gamma P_0 A}{\rho_{\text{loft}}z (V_0 - V_{\text{vatn}})}}
+   
+       &\omega 
+       = \sqrt{\frac{\gamma P_0 A}{\rho_{\text{loft}}z (V_0 - V_{\text{vatn}})}} \\
+       \implies& f 
+       = \frac{\omega }{2\pi} 
+       = \frac{1}{2\pi}\sqrt{\frac{\gamma P_0 A}{\rho_{\text{loft}}z (V_0 - V_{\text{vatn}})}}
    \end{aligned}
 
 Úrvinnsla og leiðbeiningar
@@ -94,5 +101,5 @@ Svo við ályktum að sveiflutíðni loftsins er gefin með:
    vatnsmagnið sem þið hafið hellt í flöskuna.
 
 #. Gerið viðeigandi graf í samræmi við jöfnu
-   (`[eq:tidni] <#eq:tidni>`__) til þess að ákvarða óvermnistuðul
+   :eq:`eq_tidni` til þess að ákvarða óvermnistuðul
    loftsins, :math:`\gamma`.
