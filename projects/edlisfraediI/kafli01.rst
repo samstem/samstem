@@ -825,6 +825,7 @@ Notið jöfnuna :math:`Q = c\cdot m\cdot \Delta T` til þess að finna hversu mi
   a) Finnið leiðrétt gildi lengdar, breiddar og þykktar með óvissu.
   b) Finnið rúmmál kubbsins með óvissu og skráið það með réttum fjölda markverðra stafa
 
+
 Svör
 ^^^^
 
