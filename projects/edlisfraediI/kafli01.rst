@@ -788,125 +788,42 @@ að ræða.
 Dæmi
 ----
 
-1.
-~~
-
-Hlaupari herðir á sér og nær hraðanum (5,36 :math:`\pm` 0,03) m/s á
-(3,0\ :math:`\pm` 0,2) sekúndum. Meðalhröðun hans er (0,640\ :math:`\pm`
-0,005) m/s\ :math:`^2`. Finnið hraðann sem hann var á þegar hann byrjaði
-að herða á sér. Skráið hraðann með óvissu og skilið svarinu með réttum
-fjölda markverðra stafa.
+1. Hlaupari herðir á sér og nær hraðanum (5,36 :math:`\pm` 0,03) m/s á (3,0\ :math:`\pm` 0,2) sekúndum. Meðalhröðun hans er (0,640\ :math:`\pm` 0,005) m/s\ :math:`^2`. Finnið hraðann sem hann var á þegar hann byrjaði að herða á sér. Skráið hraðann með óvissu og skilið svarinu með réttum fjölda markverðra stafa.
 
 (Notið að: :math:`v-v_0 = a\cdot t`, þar sem :math:`v` er hraði,
 :math:`v_0` er upphafshraði, :math:`t` er tími og :math:`a` er hröðun.)
 
-.. _section-1:
+2. Rétthyrnd járnplata mælist 330 mm á lengd og 170 mm á breidd. Óvissa á báðum lengdarmælingum telst vera :math:`\pm`\ 2 mm. Massi plötunnar mælist 730 g með óvissu upp á :math:`\pm`\ 5 g.
 
-2.
-^^
+  a) Reiknið út flatarmassa plötunnar, þ.e. massann á flatareiningu og gefið svarið í einingunni g/cm\ :math:`^2`.
+  b) Reiknið skipulega út óvissu á flatarmassanum.
+  c) Ritið loks flatarmassan ásamt óvissu með viðeigandi fjölda markverðra stafa.
 
-| Rétthyrnd járnplata mælist 330 mm á lengd og 170 mm á breidd. Óvissa á
-  báðum lengdarmælingum telst vera :math:`\pm`\ 2 mm. Massi plötunnar
-  mælist 730 g með óvissu upp á :math:`\pm`\ 5 g.
-| a) Reiknið út flatarmassa plötunnar, þ.e. massann á flatareiningu og
-  gefið svarið í einingunni g/cm\ :math:`^2`.
-| b) Reiknið skipulega út óvissu á flatarmassanum.
-| c) Ritið loks flatarmassan ásamt óvissu með viðeigandi fjölda
-  markverðra stafa.
 
-.. _section-2:
+3. Hvert er rúmmál kúlu sem hefur radíus r = (3,86 :math:`\pm0,08`) m? Skráðið svarið með óvissu og réttum fjölda markverðra stafa.
 
-3.
-^^
+4. Rétthyrnd járnplata mælist (330\ :math:`\pm`\ 4) mm á lengd og (170\ :math:`\pm`\ 2) mm á breidd. 
+  a) Reiknið út ummál plötunnar með óvissu og skráið með réttum fjölda markverðra stafa.
+  b) Reiknið út flatarmál plötunnar með óvissu og skráið með réttum fjölda markverðra stafa.
 
-Hvert er rúmmál kúlu sem hefur radíus r = (3,86 :math:`\pm0,08`) m?
-Skráðið svarið með óvissu og réttum fjölda markverðra stafa.
+5. Bíll eykur hraðann úr (30\ :math:`\pm`\ 2) km/klst í
+(80\ :math:`\pm`\ 3) km/klst á (70\ :math:`\pm`\ 4) sekúndum. Reiknið hröðun bílsins með óvissu og skráið niðurstöðuna í SI einingum, með réttum fjölda markverðra stafa.
 
-.. _section-3:
+6. Hafdís var að hita :math:`m = (100\pm 2)\,\text{g}` af vatni. Upphafshitastig vatnsins var :math:`T_1 = (7,3\pm 0,2)\ensuremath{^\circ}\text{C}` en lokahitastig þess er :math:`T_2 = (85,0\pm 0,2)\ensuremath{^\circ}\text{C}`.
+Eðlisvarmi vatns er :math:`c_{\textnormal{vatn}} = (4,186\pm 0,004)\,\text{kJ}/\text{kg}\text{C}\ensuremath{^\circ}`.
 
-4.
-^^
+Notið jöfnuna :math:`Q = c\cdot m\cdot \Delta T` til þess að finna hversu mikinn varma :math:`Q` hún þurfti til þess að hita vatnið. Skráið svarið með óvissu og réttum fjölda markverðra stafa.
 
-| Rétthyrnd járnplata mælist (330\ :math:`\pm`\ 4) mm á lengd og
-  (170\ :math:`\pm`\ 2) mm á breidd.
-| a) Reiknið út ummál plötunnar með óvissu og skráið með réttum fjölda
-  markverðra stafa.
-| b) Reiknið út flatarmál plötunnar með óvissu og skráið með réttum
-  fjölda markverðra stafa.
+7. Halldór er að gera tilraunina „\ *Umbreyting spennuorku í  hreyfiorku*\ “. Hann fær af grafi að kraftstuðull fjaðrarinnar sé :math:`k = (75 \pm 3`) N/m. Hann ætlar nú að reikna spennuorkuna,   :math:`\frac{1}{2}k(\Delta x)^2`, sem gormurinn fær þegar honum er þjappað saman úr óþjöppuðu ástandi í (:math:`18,0 \pm 0,2`) cm, niður í (:math:`15,5 \pm 0,2`) cm. Reiknið spennuorkuna með óvissu og skráið  niðurstöðu með óvissu og réttum fjölda markverðra stafa.
 
-.. _section-4:
-
-5.
-^^
-
-Bíll eykur hraðann úr (30\ :math:`\pm`\ 2) km/klst í
-(80\ :math:`\pm`\ 3) km/klst á (70\ :math:`\pm`\ 4) sekúndum. Reiknið
-hröðun bílsins með óvissu og skráið niðurstöðuna í SI einingum, með
-réttum fjölda markverðra stafa.
-
-.. _section-5:
-
-6.
-^^
-
-Hafdís var að hita :math:`m = (100\pm 2)\,\text{g}` af vatni.
-Upphafshitastig vatnsins var
-:math:`T_1 = (7,3\pm 0,2)\ensuremath{^\circ}\text{C}` en lokahitastig
-þess er :math:`T_2 = (85,0\pm 0,2)\ensuremath{^\circ}\text{C}`.
-Eðlisvarmi vatns er
-:math:`c_{\textnormal{vatn}} = (4,186\pm 0,004)\,\text{kJ}/\text{kg}\text{C}\ensuremath{^\circ}`.
-
-Notið jöfnuna :math:`Q = c\cdot m\cdot \Delta T` til þess að finna
-hversu mikinn varma :math:`Q` hún þurfti til þess að hita vatnið. Skráið
-svarið með óvissu og réttum fjölda markverðra stafa.
-
-.. _section-6:
-
-7.
-^^
-
-| Halldór er að gera tilraunina „\ *Umbreyting spennuorku í
-  hreyfiorku*\ “. Hann fær af grafi að kraftstuðull fjaðrarinnar sé
-  :math:`k = (75 \pm 3`) N/m. Hann ætlar nú að reikna spennuorkuna,
-  :math:`\frac{1}{2}k(\Delta x)^2`, sem gormurinn fær þegar honum er
-  þjappað saman úr óþjöppuðu ástandi í (:math:`18,0 \pm 0,2`) cm, niður
-  í (:math:`15,5 \pm 0,2`) cm.
-| Reiknið spennuorkuna með óvissu og skráið niðurstöðu með óvissu og
-  réttum fjölda markverðra stafa.
-
-.. _section-7:
-
-8.
-^^
-
-| Nemandi þarf að reikna eðlismassa óreglulega lagaðs hlutar. Hann hefur
-  stóra könnu sem er með skala þannig að hægt er að lesa af hversu
-  margir ml af vatni eru í henni. Hann er einnig með vog til þess að
-  mæla massa hlutarins.
-| Þegar bara vatn er í könnunni les nemandinn að af skalanum að þetta
-  séu :math:`(330\pm10)` ml. Þegar hluturinn er settur á kaf í könnuna
-  les nemandinn af skalanum að það séu :math:`(460 \pm10)` ml í
-  könnunni. Massi hlutarins mælist :math:`(550\pm 2)` g
-| (Athugið að 1 ml = 1 cm\ :math:`^3`)
-| a) Hvert er rúmmál hlutarins (með óvissu og réttum fjölda markverðra
-  stafa)?
-| b) Hver er eðlismassi hlutarins (með óvissu og réttum fjölda
+8. Nemandi þarf að reikna eðlismassa óreglulega lagaðs hlutar. Hann hefur stóra könnu sem er með skala þannig að hægt er að lesa af hversu margir ml af vatni eru í henni. Hann er einnig með vog til þess að mæla massa hlutarins. Þegar bara vatn er í könnunni les nemandinn að af skalanum að þetta séu :math:`(330\pm10)` ml. Þegar hluturinn er settur á kaf í könnuna les nemandinn af skalanum að það séu :math:`(460 \pm10)` ml í könnunni. Massi hlutarins mælist :math:`(550\pm 2)` g (Athugið að 1 ml = 1 cm\ :math:`^3`)
+  a) Hvert er rúmmál hlutarins (með óvissu og réttum fjölda markverðra stafa)?
+  b) Hver er eðlismassi hlutarins (með óvissu og réttum fjölda
   markverðra stafa)?
 
-.. _section-8:
-
-9.
-^^
-
-| Sigurlaug er að mæla stærð lítils rétthyrnds kubbs. Hún byrjar á því
-  að mæla núllskekkju rennimálsins (það sem rennimálið sýnir þegar
-  ekkert er mælt) og fær að hún sé :math:`(0,05\pm0,05\,)`\ mm. Síðan
-  mælir hún lengdina sem :math:`(13,15\pm0,05\,)`\ mm, breiddina sem
-  :math:`(5,25\pm0,05\,)`\ mm og þykktina sem
-  :math:`(2,65\pm0,05\,)`\ mm.
-| a) Finnið leiðrétt gildi lengdar, breiddar og þykktar með óvissu.
-| b) Finnið rúmmál kubbsins með óvissu og skráið það með réttum fjölda
-  markverðra stafa
+9. Sigurlaug er að mæla stærð lítils rétthyrnds kubbs. Hún byrjar á því að mæla núllskekkju rennimálsins (það sem rennimálið sýnir þegar ekkert er mælt) og fær að hún sé :math:`(0,05\pm0,05\,)`\ mm. Síðan mælir hún lengdina sem :math:`(13,15\pm0,05\,)`\ mm, breiddina sem :math:`(5,25\pm0,05\,)`\ mm og þykktina sem :math:`(2,65\pm0,05\,)`\ mm.
+  a) Finnið leiðrétt gildi lengdar, breiddar og þykktar með óvissu.
+  b) Finnið rúmmál kubbsins með óvissu og skráið það með réttum fjölda markverðra stafa
 
 Svör
 ^^^^
