@@ -129,7 +129,7 @@ Dæmi 1. Maður að draga kassa
 
 Hugsum okkur að Kalli sé að draga kassa eftir gólfinu. Hann dregur
 kassann með krafti :math:`|\vec{F}| = 300\,\text{N}` undir
-:math:`\theta` = 34\ :math:`\ensuremath{^\circ}` horni við lárétt.
+:math:`\theta` = 34\ :math:`^\circ` horni við lárétt.
 Hreyfinúningsstuðull milli gólfs og kassa er 0,4 og kassinn er 73 kg að
 þyngd. Hér myndi spurningin vera: Hver er hröðun kassans?
 
@@ -161,7 +161,7 @@ Nú skoðum við hvað muni vera best að gera fyrst. Í :math:`y`-jöfnunni er
 bara ein óþekkt stærð meðan það eru tvær óþekktar stærðir í
 :math:`x`-jöfnunni. Við skoðum því :math:`y`-jöfnuna fyrst:
 
-.. math:: F\sin(\theta) - F_g + \textit{Þ} = 0 \,\,\, \Rightarrow \,\,\, 300 \sin(34\ensuremath{^\circ}) - 73\cdot 9,8 +\textit{Þ} = 0\,\,\, \Rightarrow \,\,\, \textit{Þ} = 548 \,\text{N}
+.. math:: F\sin(\theta) - F_g + \textit{Þ} = 0 \,\,\, \Rightarrow \,\,\, 300 \sin(34^\circ) - 73\cdot 9,8 +\textit{Þ} = 0\,\,\, \Rightarrow \,\,\, \textit{Þ} = 548 \,\text{N}
 
 Næsta skref er þá að nota núningsjöfnuna til þess að finna
 núningskraftinn:
@@ -170,7 +170,7 @@ núningskraftinn:
 
 Nú getum við fundið hröðunina út frá :math:`x`-jöfnunni:
 
-.. math:: F\cos(\theta) - F_{nun} = m a \,\,\,\Rightarrow\,\,\, 300\cos(34\ensuremath{^\circ}) - 219 = 73 a\,\,\,\, \Rightarrow\,\,\, a = 0,41\,\text{m}/\text{s}^2
+.. math:: F\cos(\theta) - F_{nun} = m a \,\,\,\Rightarrow\,\,\, 300\cos(34^\circ) - 219 = 73 a\,\,\,\, \Rightarrow\,\,\, a = 0,41\,\text{m}/\text{s}^2
 
 Dæmi 2. Kassi togaður upp skábretti
 -----------------------------------
@@ -183,7 +183,7 @@ hefur massa :math:`m_{kassi}` = 73 kg eins og áður og við skulum segja
 að krafutrinn sé :math:`F = 300\,\text{N}`. Hreyfinúningstuðul milli
 kassa og skáplans skulum við hafa :math:`\mu_k = 0,3` og kyrrstöðunúning
 milli þeirra :math:`\mu_s = 0,4`. Skáplanið skulum við láta halla um
-:math:`\theta = 27\ensuremath{^\circ}`.
+:math:`\theta = 27^\circ`.
 
 |image4|
 
@@ -212,12 +212,12 @@ Nú getum við reiknað eins og áður:
 
 Við setum inn þekktar stærðir:
 
-.. math:: \left( \begin{array}{c} 300\\0  \end{array}\right) + \left( \begin{array}{c} -73\cdot9,8\cdot\sin(27\ensuremath{^\circ}) \\- 73\cdot9,8\cdot \cos(27\ensuremath{^\circ}) \end{array}\right)+ \left( \begin{array}{c} 0 \\ \textit{Þ}  \end{array}\right)+\left( \begin{array}{c} -0,3\cdot \textit{Þ} \\ 0  \end{array}\right) = 73\left( \begin{array}{c} a \\ 0  \end{array}\right)
+.. math:: \left( \begin{array}{c} 300\\0  \end{array}\right) + \left( \begin{array}{c} -73\cdot9,8\cdot\sin(27^\circ) \\- 73\cdot9,8\cdot \cos(27^\circ) \end{array}\right)+ \left( \begin{array}{c} 0 \\ \textit{Þ}  \end{array}\right)+\left( \begin{array}{c} -0,3\cdot \textit{Þ} \\ 0  \end{array}\right) = 73\left( \begin{array}{c} a \\ 0  \end{array}\right)
 
 Aftur er það :math:`y`-jafnan sem við byrjum á því hún hefur aðeins eina
 óþekkta stærð. Við finnum *Þ*:
 
-.. math:: - 73\cdot9,8\cdot \cos(27\ensuremath{^\circ}) + \textit{Þ} = 0\,\,\,\Rightarrow\,\,\, \textit{Þ} = 637\,\text{N}
+.. math:: - 73\cdot9,8\cdot \cos(27^\circ) + \textit{Þ} = 0\,\,\,\Rightarrow\,\,\, \textit{Þ} = 637\,\text{N}
 
 Næst finnum við núningskraftinn:
 
@@ -225,7 +225,7 @@ Næst finnum við núningskraftinn:
 
 Að lokum notum við :math:`x`-jöfnuna til þess að finna hröðunina:
 
-.. math:: 300 -73\cdot9,8\cdot\sin(27\ensuremath{^\circ}) - 191 = 73\cdot a\,\,\,\Rightarrow\,\,\, a = -2,96\,\text{m}/\text{s}^2
+.. math:: 300 -73\cdot9,8\cdot\sin(27^\circ) - 191 = 73\cdot a\,\,\,\Rightarrow\,\,\, a = -2,96\,\text{m}/\text{s}^2
 
 Neikvæð hröðun, er það í lagi? Jú það er allt í lagi. Kassinn er bara að
 hægja á sér. Honum var komið á ákveðinn hraða í byrjun, en þegar togað
@@ -255,7 +255,7 @@ er :math:`a = 0` og :math:`F_{nun} \leq \mu_s \cdot N`
 
 :math:`x`-jafnan gefur okkur:
 
-.. math:: 300 -73\cdot9,8\cdot\sin(27\ensuremath{^\circ}) + F_{nun} = 0\,\,\,\Rightarrow\,\,\, F_{nun} = 25\,\text{N}
+.. math:: 300 -73\cdot9,8\cdot\sin(27^\circ) + F_{nun} = 0\,\,\,\Rightarrow\,\,\, F_{nun} = 25\,\text{N}
 
 Þetta eru 25 N upp hallann því kassinn vill niður. Við skulum að lokum
 að huga hvort þessi núningskraftur sé minni en :math:`\mu_s N`:
@@ -430,7 +430,7 @@ skjalaskáps er 0,8. Hversu stór er kyrrstöðunúningskrafturinn á skápinn?
 4.
 ^^
 
-4000 kg vörubíl er lagt í 15\ :math:`\ensuremath{^\circ}` halla. Hversu
+4000 kg vörubíl er lagt í 15\ :math:`^\circ` halla. Hversu
 stór er núningskrafturinn á vörubílinn? Kyrrstöðunúningsstuðull milli
 dekkja og götu er 0,9.
 
@@ -479,8 +479,8 @@ gormurinn er strekktur um 2,2 cm?
 
 Mynd sem hefur massann 2,0 kg, hangir í tveimur böndum eins og sýnt er á
 myndinni. Hægra bandið myndar hornið
-:math:`\theta_1 = 62\ensuremath{^\circ}` við lárétt og hitt bandið
-myndar hornið :math:`\theta_2 = 37\ensuremath{^\circ}` við lárétt.
+:math:`\theta_1 = 62^\circ` við lárétt og hitt bandið
+myndar hornið :math:`\theta_2 = 37^\circ` við lárétt.
 myndin er kyrr. Finnið togkraftana :math:`T_1` og :math:`T_2`.
 
 .. _section-8:
@@ -489,7 +489,7 @@ myndin er kyrr. Finnið togkraftana :math:`T_1` og :math:`T_2`.
 ^^
 
 | Massi, 50 kg, liggur á hálu skábretti sem myndar hornið
-  :math:`\theta = 60\ensuremath{^\circ}` við lárétt. Massinn rennur ekki
+  :math:`\theta = 60^\circ` við lárétt. Massinn rennur ekki
   niður eftir skábrettinu vegna þess að honum er haldið uppi með reipi
   sem er samsíða halla skábrettisins.
 | a) Finnið togkraftinn í reipinu.
@@ -525,7 +525,7 @@ myndin er kyrr. Finnið togkraftana :math:`T_1` og :math:`T_2`.
 ^^^
 
 | **Láréttur** 100 N kraftur er notaður til þess að ýta 12 kg kubb upp
-  núningslaust skáplan sem myndar 25\ :math:`\ensuremath{^\circ}` horn
+  núningslaust skáplan sem myndar 25\ :math:`^\circ` horn
   við lárétt.
 | a) Hver er þverkraftur skáplansins á kubbinn?
 | b) Hver verður hröðun kubbsins?
@@ -560,9 +560,9 @@ myndin er kyrr. Finnið togkraftana :math:`T_1` og :math:`T_2`.
 | Það þarf að færa 50 kg kassa sem liggur á láréttu gólfi.
   Kyrrstöðunúningur milli kassa og gólfs er 0,6.
 | a) Reiknið hversu stóran kraft þarf til þess að færa kassann ef ýtt er
-  niður á hann :math:`30\ensuremath{^\circ}` undir lárétt.
+  niður á hann :math:`30^\circ` undir lárétt.
 | b) Reiknið hversu stóran kraft þarf til þess að færa kassann ef hann
-  er togaður áfram með bandi sem myndar 30\ :math:`\ensuremath{^\circ}`
+  er togaður áfram með bandi sem myndar 30\ :math:`^\circ`
   horn yfir láréttu.
 
 .. _section-15:
@@ -589,7 +589,7 @@ myndin er kyrr. Finnið togkraftana :math:`T_1` og :math:`T_2`.
 
 Tveir massar eru tengdir saman með „massalausum“ streng yfir trissu eins
 og sýnt er á myndinni. Trissan er efst á skáplani sem myndar hornið
-:math:`\theta = 30\ensuremath{^\circ}` við lárétt. Massi :math:`m_1`
+:math:`\theta = 30^\circ` við lárétt. Massi :math:`m_1`
 liggur á skáplaninu, meðan massi :math:`m_2` hangir laus í strengnum.
 :math:`m_1 = m_2 = 5,0` kg. Skáplanið og trissan eru núningslaus. Finnið
 stærð hröðunar massanna.
@@ -677,7 +677,7 @@ kallast *Atwoods vél*. Með því að mæla hröðun massanna fæst jafna fyrir
 þyngdarhröðun. Gerið ráð fyrir að strengurinn sé massalaus og trissan
 núningslaus. Sýnið að hröðun massanna og togkrafturinn í bandinu séu:
 
-.. math:: a = \frac{m_1 - m_2}{m_1 + m_2}g\,\,\,\,\,\,\,\,\textnormal{og}\,\,\,\,\,\,\,\, T = \frac{2m_1m_2g}{m_1 + m_2}
+.. math:: a = \frac{m_1 - m_2}{m_1 + m_2}g\,\,\,\,\,\,\,\,\text{og}\,\,\,\,\,\,\,\, T = \frac{2m_1m_2g}{m_1 + m_2}
 
 .. _section-23:
 

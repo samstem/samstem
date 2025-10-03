@@ -189,11 +189,11 @@ Núningskrafturinn sem verkar á þá þar sem þeir renna er:
 
 .. math::
 
-   F_{\textnormal{nún}} = \mu_k
+   F_{\text{nún}} = \mu_k
    \hspace{2 cm} \textit{Þ} = mg = 2900\cdot9,82\,\text{N}= 28478\,\text{N}
 
 Núningskrafturinn er því
-:math:`F_{\textnormal{nún}} = 0,8\cdot 28478\,\text{N}= 22782\,\text{N}`
+:math:`F_{\text{nún}} = 0,8\cdot 28478\,\text{N}= 22782\,\text{N}`
 
 Við getum nú fundið hraða bílanna rétt eftir áreksturinn með því að nota
 vinnulögmálið:
@@ -226,7 +226,7 @@ við snúið okkur að því að finna hraða massanna fyrir áreksturinn. Til
 
 .. math:: 1200\left(\begin{array}{c}v_A\\0\end{array}\right) +1700\left(\begin{array}{c}0\\v_B\end{array}\right)  = 2900\left(\begin{array}{c}5,3\,\text{m}/\text{s}\\7,1\,\text{m}/\text{s}\end{array}\right) \hspace{0.5 cm}\Rightarrow\hspace{0.5 cm}
 
-.. math:: v_A = \frac{2900\cdot 5,3}{1200}=12,8\,\text{m}/\text{s}\hspace{0.5 cm}\textnormal{og} \hspace{0.5 cm}v_B = \frac{2900\cdot7,1}{1700}=12,1\,\text{m}/\text{s}
+.. math:: v_A = \frac{2900\cdot 5,3}{1200}=12,8\,\text{m}/\text{s}\hspace{0.5 cm}\text{og} \hspace{0.5 cm}v_B = \frac{2900\cdot7,1}{1700}=12,1\,\text{m}/\text{s}
 
 Þessir bílstjórar hafa alla vega ekki verið á neinum rosa hraða báðir
 undir 50 km/klst.
@@ -338,7 +338,7 @@ Við fáum þá að
 Nú er hægt að skilgreina hraða, :math:`\vec{v}_{CM}`, sem þann hraða sem
 diffraður gefur :math:`\vec{a}_{CM}`. Við getum einnig skrifað:
 
-.. math:: \vec{v}_A = \frac{d\vec{r}_A}{dt} \hspace{1 cm}\textnormal{og}\hspace{1 cm} \vec{v}_B = \frac{d\vec{r}_B}{dt}
+.. math:: \vec{v}_A = \frac{d\vec{r}_A}{dt} \hspace{1 cm}\text{og}\hspace{1 cm} \vec{v}_B = \frac{d\vec{r}_B}{dt}
 
 Þar með getum við einnig skilgreint stöðu:
 
@@ -504,7 +504,7 @@ ráð fyrir að áreksturinn sé línulegur og fullkomlega fjaðrandi.
 
 Tvær billjardkúlur liggja á láréttu borði. Þær hafa báðar sama massa. Nú
 er annarri kúlunni skotið á hina þannig að önnur kúlan fær ferðina
-0,8 m/s og stefnir 56\ :math:`\ensuremath{^\circ}` frá stefnu upphaflegu
+0,8 m/s og stefnir 56\ :math:`^\circ` frá stefnu upphaflegu
 kúlunnar og hin kúlan fær ferðina 1,2 m/s. Ef áreksturinn er fullkomlega
 fjaðrandi, hvert er þá hornið sem hin kúlan fer miðað við upprunanlegu
 stefnuna og hver var hraði kúlunnar sem var skotið þegar hún lenti á
@@ -547,7 +547,7 @@ stefnuna og hver var hraði kúlunnar sem var skotið þegar hún lenti á
   hraða kúlunnar. Hugsum okkur að kúlu með massa 10 g sé skotið í pendúl
   sem hefur massa 1,2 kg og hangir í bandi sem er 80 cm að lengd. Ef
   pendúllinn sveiflast upp þannig að hann myndar
-  38\ :math:`\ensuremath{^\circ}` horn við lóðrétta stöðu
+  38\ :math:`^\circ` horn við lóðrétta stöðu
 | a) hversu langa vegalengd í lóðrétta stefnu hefur pendúllinn þá lyfst?
 | b) hver er þá stöðuorka pendúls og kúlu í efstu stöðu (miðað við að
   hún sé 0 í neðstu stöðu)?
@@ -577,7 +577,7 @@ núningsstuðull milli dekkja og vegar er 0,7, hver var þá hraði bíls
   suðurátt. Báðir bílstjórarnir eru að texta og taka ekki eftir hvor
   öðrum fyrr en þeir lenda saman. Þá stíga þeir á bremsurnar en bílarnir
   klessa, festast saman og renna áfram í stefnu
-  48\ :math:`\ensuremath{^\circ}` norður af austri. Þeir stöðvast þegar
+  48\ :math:`^\circ` norður af austri. Þeir stöðvast þegar
   þeir hafa runnið 4,2 m.
 | Á hvaða hraða voru bílarnir fyrir áreksturinn? (Gera má ráð fyrir að
   núningsstuðullinn sé aftur 0,7.)
@@ -631,7 +631,7 @@ massamiðja kassans?
 | a) Sýnið að ef áreksturinn línuárekstur stöðvast :math:`K_A` en
   :math:`K_B` heldur áfram með hraða :math:`\vec{v}`.
 | b) Sýnið að ef áreksturinn er skáárekstur verður hornið milli hraða
-  kúlanna eftir árekstur 90\ :math:`\ensuremath{^\circ}`.
+  kúlanna eftir árekstur 90\ :math:`^\circ`.
 
 Svör
 ^^^^
@@ -648,7 +648,7 @@ Svör
 | 10) 602 m/s
 | 11) a. -0,23 m/s    b. -1,75 m/s og 1,05 m/s
 | 12) 0 m/s og 2,1 m/s
-| 13) :math:`-34\ensuremath{^\circ}` og 1,4 m/s 14) a. 1,4 m/s    b.
+| 13) :math:`-34^\circ` og 1,4 m/s 14) a. 1,4 m/s    b.
   1,3 m/s og 1,5 m/s
 | 15) a. 0,17 m/s    b. -3,20 J
 | 16) a. 0,17 m    b. 2,01 J    c. 2,01 J    d. 1,82 m/s    e. 221 m/s

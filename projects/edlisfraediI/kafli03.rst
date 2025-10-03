@@ -186,14 +186,14 @@ Með tölum verður þetta:
 
 Hér sjáum við að
 
-.. math:: 4,0\,\text{m}/\text{s}\cos(\theta) = -3,4\,\text{m}/\text{s}\hspace{1 cm}  \Rightarrow \hspace{1 cm} \theta = 148\ensuremath{^\circ}
+.. math:: 4,0\,\text{m}/\text{s}\cos(\theta) = -3,4\,\text{m}/\text{s}\hspace{1 cm}  \Rightarrow \hspace{1 cm} \theta = 148^\circ
 
-\ miðað við stefnu vatnsins (eða 58\ :math:`\ensuremath{^\circ}`
+\ miðað við stefnu vatnsins (eða 58\ :math:`^\circ`
 ragnsælis miðað við stefnuna beint yfir). Þá fæst:
 
 .. math:: v_{bj} = 4,0\,\text{m}/\text{s}\sin(\theta)  \hspace{1 cm}  \Rightarrow \hspace{1 cm}  v_{bj} = 2,1\,\text{m}/\text{s}
 
-Báturinn þarf því að stefna undir 58\ :math:`\ensuremath{^\circ}` horni
+Báturinn þarf því að stefna undir 58\ :math:`^\circ` horni
 miðað við beint yfir, upp ána, þ.e. á móti straumnum að hluta.
 Heildarhraði bátsins þvert yfir ána er 2,1 m/s. Ef áin væri 168 m breið,
 þá tæki það bátinn
@@ -525,7 +525,7 @@ mikilvægir. Alli þekkja reglu Pýþagórasar:
 .. math:: a^2 = b^2 + c^2
 
 Hér er :math:`a` lengd hliðarinnar sem er á móti
-:math:`90\ensuremath{^\circ}` horninu, og :math:`b` og :math:`c` lengdir
+:math:`90^\circ` horninu, og :math:`b` og :math:`c` lengdir
 hinna hliðanna.
 
 Hugsum okkur réttan þríhyrning með langhlið, :math:`a = 1`. Skoðum
@@ -598,7 +598,7 @@ hverstefna flygildisins er miðað við austur.
 4.
 ^^
 
-| Ferja ferðast í stefnu 35,1\ :math:`\ensuremath{^\circ}` norður af
+| Ferja ferðast í stefnu 35,1\ :math:`^\circ` norður af
   austri með hraðanum 5,12 m/s miðað við vatnið. Farþegi gengur með
   hraðanum 2,71 m/s beint í austur miðað við bátinn.
 | (a) Hver er hraðavigur ferjunnar?
@@ -612,7 +612,7 @@ hverstefna flygildisins er miðað við austur.
 
 Tvíburar Arnar og Bjarki ætla að synda yfir á. Þeir synda báðir á sama
 hraða, en Arnar stefnir beint yfir ána og berst því niður ána með
-straumnum en Bjarki stefnir 45\ :math:`\ensuremath{^\circ}` upp ána og
+straumnum en Bjarki stefnir 45\ :math:`^\circ` upp ána og
 lendir nákvæmlega beint á móti staðnum sem þeir byrjuðu frá. Finnið
 hlutfall tímans sem það tekur Arnar að fara yfir ána og tímans sem það
 tekur Bjarka að fara yfir ána.
@@ -625,9 +625,9 @@ tekur Bjarka að fara yfir ána.
 Skip landhelgisgæslunnar ferðast á jöfnum hraða 4,20 m/s beint í austur
 miðað við vatnið. Á radarnum sést hlutur sem ferðast með jöfnum hraða.
 Hluturinn er í fjarlægðinni 2310 m frá skipinu
-32,0\ :math:`\ensuremath{^\circ}` suður af austri. Sex mínútum seinna
+32,0\ :math:`^\circ` suður af austri. Sex mínútum seinna
 sést að hluturinn er í fjarlægð 1120 m,
-57,0\ :math:`\ensuremath{^\circ}` suður af vestri. Hver er hraðavigur
+57,0\ :math:`^\circ` suður af vestri. Hver er hraðavigur
 hlutarins miðað mið vatnið?
 
 Svör
@@ -636,7 +636,7 @@ Svör
 | 1) a. 41 m/s í austur   b. 41 m/s í vestur
 | 2) a. :math:`\begin{pmatrix}0,91\\1,4 \end{pmatrix}`\ m/s,    b.
   1820 m
-| 3) :math:`21\ensuremath{^\circ}` suður af austri
+| 3) :math:`21^\circ` suður af austri
 | 4) a.
   :math:`\begin{pmatrix}4,19\\2,94\end{pmatrix}\text{m}/\text{s},`   b.
   :math:`\begin{pmatrix} 2,71\\0\end{pmatrix}\text{m}/\text{s},`   c.
