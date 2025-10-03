@@ -907,6 +907,24 @@ svarið með óvissu og réttum fjölda markverðra stafa.
 | a) Finnið leiðrétt gildi lengdar, breiddar og þykktar með óvissu.
 | b) Finnið rúmmál kubbsins með óvissu og skráið það með réttum fjölda
   markverðra stafa
+:reverse:
+
+```{toggle}
+This is a toggled content block!
+```
+.. begin-toggle::
+
+Toggleable section (not indented)
+
+.. end-toggle::
+
+.. begin-toggle:: :label: Fela/Sýna :starthidden: True
+
+Toggleable section
+
+.. end-toggle::
+
+:::{admonition} Check out sphinx-design as well! :class: tip
 
 Svör
 ^^^^

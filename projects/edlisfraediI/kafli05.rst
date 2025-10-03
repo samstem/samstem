@@ -38,8 +38,7 @@ til hann stöðvaðist.
 Það að steinninn breytir ekki hraða sínum nema eitthvað utanaðkomandi
 komi til, kallast **tregða** steinsins til að breyta hreyfingunni.
 
-Fyrsta lögmál Newtons
-~~~~~~~~~~~~~~~~~~~~~
+**Fyrsta lögmál Newtons**
 
 Fyrsta lögmál Newtons hljóðar svo í íslensku þýðingunni:
 
@@ -61,8 +60,7 @@ stærðfræði. Í staðin fyrir skilgreiningu krafts almennt ætlum við að
 skoða ýmisleg sem við köllum kraft, og læra að þekkja það og fá
 tilfinningu fyrir hvað kraftur er í stórsæjum kerfum.
 
-Að ýta eða toga
-~~~~~~~~~~~~~~~
+**Að ýta eða toga**
 
 Auðveldast er að hugsa sér kraft sem eitthvað sem hlutur verður fyrir
 þegar við ýtum á hann eða togum í hann. Ýtikraftur eða togkraftur. Við
@@ -73,8 +71,7 @@ höfum tilfinningu fyrir því hvað það er.
 Við getum fundið fyrir togkrafti og ýtikrafti. Það er eitthvað
 raunverulegt.
 
-Núningskraftur
-~~~~~~~~~~~~~~
+**Núningskraftur**
 
 Í byrjun kaflans töluðum við um núning. Við höfum svokallaðan
 núningskraft sem verkar alltaf á móti þeirri stefnu sem hluturinn er að
@@ -84,8 +81,7 @@ miðað við undirlagið sem hann ferðast á. Hitt er núningur sem verkar á
 hlut sem er kyrr miðað við undirlagið sem hann situr á. Þessir kraftar
 hegða sér á svolítið mismunandi hátt eins og við munum sjá.
 
-Þverkraftur
-~~~~~~~~~~~
+**Þverkraftur**
 
 Núningskrafturinn er alltaf samsíða undirlaginu sem hluturinn er á.
 Unidirlagið verkar á hlut sem liggur á því með krafti og þessi kraftur
@@ -95,8 +91,7 @@ Sá þáttur sem er hornréttur á undirlagið kallast þverkraftur eða
 normalkraftur. Þverkrafturinn er krafturinn sem verkar frá undirlagin og
 hornrétt upp á hlutinn.
 
-Fjaðurkraftur
-~~~~~~~~~~~~~
+**Fjaðurkraftur**
 
 Þegar við togum í gorm verður erfiðara og erfiðara að toga eftir því sem
 við togum lengra. Sama gerist ef við ýtum gorminum saman, það verður
@@ -124,8 +119,7 @@ staður á gorminum er þegar togað er í gorminn með tveimur þekktum
 kröftum og gera svo tilsvarandi skala á plasthólkinn. Síðan er hægt að
 toga í gorminn með óþekktum krafti og lesa stærð hans af skalanum.
 
-Þyngdarkraftur
-~~~~~~~~~~~~~~
+**Þyngdarkraftur**
 
 Flestir vita eitthvað um þyngdarkraftinn, t.d. það að hann kemur til af
 því að massi jarðarinnar togar okkur inn að miðju jarðar.
@@ -193,8 +187,7 @@ sinnum hröðun hlutarins.
 Ýmislegt um kraftana sem við notum
 ----------------------------------
 
-Ýtikraftur og togkraftur
-~~~~~~~~~~~~~~~~~~~~~~~~
+**Ýtikraftur og togkraftur**
 
 Þegar maður ýtir á eitthvað þá er krafturinn í þá stefnu sem maður ýtir.
 
@@ -243,8 +236,7 @@ Togkraftur verkar alltaf í átt að þeim sem togar.
 
 .. _þyngdarkraftur-1:
 
-Þyngdarkraftur
-~~~~~~~~~~~~~~
+**Þyngdarkraftur**
 
 | Þyngdarkrafturinn er eins og við sögðum kraftur sem verkar á
   þyngdarmassa hluta. Við yfirborð jarðar getum við skilgreint stærð sem
@@ -295,8 +287,7 @@ fyrir er sniðugt að skrifa stærð þyngdarkraftsins sem :math:`F_g` meðan
 verið er að setja upp jöfnur og setja svo inn :math:`mg` þegar farið er
 að reikna.
 
-Þverkraftur og núningskraftur
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Þverkraftur og núningskraftur**
 
 Nú skulum við skoða aftur konuna sem var að ýta á kassann.
 
