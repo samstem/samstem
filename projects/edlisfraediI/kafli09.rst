@@ -559,7 +559,7 @@ Dæmi
 ^^
 
 | Helga dregur 50 kg áburðarpoka eftir gólfi. Hún togar pokann upp undir
-  :math:`38\,\ensuremath{^\circ}` horni. Hún togar með 200 N krafti og
+  :math:`38\,^\circ` horni. Hún togar með 200 N krafti og
   flytur pokann 1,2 m eftir gólfinu.
 | a) Hversu mikla vinnu framkvæmir Helga?
 | b) Ef núningsstuðullin milli poka og gólfs er 0,4, hversu mikla vinnu
@@ -593,7 +593,7 @@ Dæmi
 ^^
 
 | Kassi (20 kg) er togaður úr kyrrstöðu, 120 cm upp skábretti, með 140 N
-  krafti. Halli skábrettisins er :math:`37\ensuremath{^\circ}` miðað við
+  krafti. Halli skábrettisins er :math:`37^\circ` miðað við
   lárétt.
 | a) Hver er vinna kraftsins?
 | b) Hver er vinna þyngdarkraftsins?
@@ -666,7 +666,7 @@ jöfn þeirri hreyfiorku sem hann hefur þegar hann ferðast á hraðanum
 ^^^
 
 Kubbur (3,0 kg) kemur á jöfnum hraða, 7,0 m/s að núningslausu skáplani
-sem hallar um :math:`40\ensuremath{^\circ}` yfir jörðu. Hversu langt fer
+sem hallar um :math:`40^\circ` yfir jörðu. Hversu langt fer
 kubburinn upp skáplanið áður en hann stöðvast? (Hann stöðvast um stund
 áður en hann byrjar að renna niður)
 
@@ -732,7 +732,7 @@ verður hraði massanna þegar þeir eru í sömu hæð?
 
 | Sleði (8,0 kg) er upphaflega kyrrstæður á láréttum vegi.
   Núningsstuðullinn milli vegar og sleða er 0,4. Nú er sleðinn togaður
-  áfram 3,0 m með 40 N togkrafti sem vísar :math:`30\ensuremath{^\circ}`
+  áfram 3,0 m með 40 N togkrafti sem vísar :math:`30^\circ`
   yfir lárétt.
 | a) Hver er vinna togkraftsins?
 | b) Hver er vinna núningskraftsins?
@@ -801,7 +801,7 @@ milli hjóla og vegar? (Gerið ráð fyrir að loftmótstaða sé engin.)
 
 Til þess að knýja 800 kg bíl á hraðanum 50 km/klst eftir láréttum vegi
 þarf 30 kW af vélarafli til hjóla. Hversu mikið afl þyrfti til þess að
-knýja bílinn upp 8\ :math:`\ensuremath{^\circ}` halla á sama hraða?
+knýja bílinn upp 8\ :math:`^\circ` halla á sama hraða?
 (Gerið ráð fyrir að núningsstuðullinn sé sá sami á jafnsléttu og í
 hallanum.)
 

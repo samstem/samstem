@@ -83,7 +83,7 @@ Kasthreyfing
 ~~~~~~~~~~~~
 
 Hugsum okkur að við köstum bolta upp í loft undir
-34\ :math:`\ensuremath{^\circ}` horni, með hraðanum 15  m/s. Við köstum
+34\ :math:`^\circ` horni, með hraðanum 15  m/s. Við köstum
 boltanum úr :math:`y_0` = 1,5 m hæð og frá :math:`x_0` = 0. Við gerum þá
 nálgun að loftmótstaða sé engin. (Stundum er gott að reikna fyrst
 einfalt dæmi og sjá hvernig það virkar. Seinna má svo bæta flóknari
@@ -96,7 +96,7 @@ og gera ráð fyrir að allt sé í SI einingum):
 .. math::
 
    \begin{equation}
-   \vec{v}(t) = \left( \begin{array}{c} v_{x0} \\ a_y t+v_{y0} \end{array}\right)= \left( \begin{array}{c} 15\cos(34\ensuremath{^\circ}) \\ -9,8 t+15\sin(34\ensuremath{^\circ}) \end{array}\right)
+   \vec{v}(t) = \left( \begin{array}{c} v_{x0} \\ a_y t+v_{y0} \end{array}\right)= \left( \begin{array}{c} 15\cos(34^\circ) \\ -9,8 t+15\sin(34^\circ) \end{array}\right)
    \end{equation}
 
 og:
@@ -104,16 +104,16 @@ og:
 .. math::
 
    \begin{equation}
-   \vec{s}(t) =  \left( \begin{array}{c} v_{x0}t +x_0 \\ \frac{1}{2}a_yt^2 +v_{y0}t +y_0 \end{array}\right) =  \left( \begin{array}{c} 15\cos(34\ensuremath{^\circ})t \\ \frac{1}{2}(-9,8)t^2 +15\sin(34\ensuremath{^\circ}) t + 1,5 \end{array}\right)
+   \vec{s}(t) =  \left( \begin{array}{c} v_{x0}t +x_0 \\ \frac{1}{2}a_yt^2 +v_{y0}t +y_0 \end{array}\right) =  \left( \begin{array}{c} 15\cos(34^\circ)t \\ \frac{1}{2}(-9,8)t^2 +15\sin(34^\circ) t + 1,5 \end{array}\right)
    \end{equation}
 
 Nú höfum við allar jöfnur sem við þurfum. Við getum reiknað hversu hátt
 boltinn fer. Einkenni hæsta punkts er að :math:`v_y` = 0. Þar er þá
-:math:`-9,8 t+15\sin(34\ensuremath{^\circ})` = 0, og boltinn er því í
-hæsta punkti þegar :math:`t = 15\sin(34\ensuremath{^\circ})/9,8`,s =
+:math:`-9,8 t+15\sin(34^\circ)` = 0, og boltinn er því í
+hæsta punkti þegar :math:`t = 15\sin(34^\circ)/9,8`,s =
 0,86 s. Til þess að finna hversu hátt boltinn fór á þessum tíma setjum
 við inn í jöfnuna fyrir :math:`y` - gildið: :math:`h_{max}` =
-:math:`\frac{1}{2}(-9,8)t^2 +15\sin(34\ensuremath{^\circ}) t + 1,5` =
+:math:`\frac{1}{2}(-9,8)t^2 +15\sin(34^\circ) t + 1,5` =
 4,99 m. Athugið að þetta er hæð yfir jörðu miðað við að við köstum
 boltanum úr 1,5 m hæð yfir jörðu.
 
@@ -121,7 +121,7 @@ Nú gæti verið að við vildum vita hversu langt boltinn færi í
 :math:`x`-stefnu áður en hann lendir á jörðunni. Til þess að finna það
 skulum við fyrst finna hversu lengi boltinn er í loftinu. Þegar boltinn
 lendir á jörðinni er :math:`y(t) = 0`. Það þýðir að
-:math:`\frac{1}{2}(-9,8)t^2 +15\sin(34\ensuremath{^\circ}) t + 1,5 = 0`.
+:math:`\frac{1}{2}(-9,8)t^2 +15\sin(34^\circ) t + 1,5 = 0`.
 Þetta er annars stigs jafna sem þarf að leysa. Með einföldum aðferðum
 sem þið þekkið fáum við lausnirnar
 :math:`t = 1,88\,s\,\, \vee\,\, t = -0,16\,s.` Við vitum að 1,88 s er
@@ -134,7 +134,7 @@ Nú þurfum við næst að athuga hversu langt boltinn fer áður en hann
 lendir á jörðunni. Það finnum við með því að athuga hversu langt hann
 fer í x-stefnu á 1,88  s:
 
-:math:`L = v_x(1,88) = 15\cos(34\ensuremath{^\circ})\cdot 1,88` = 23,4 m.
+:math:`L = v_x(1,88) = 15\cos(34^\circ)\cdot 1,88` = 23,4 m.
 
 Breytilegt hnitakerfi, pólhnit
 ------------------------------
@@ -385,7 +385,7 @@ kúlan lendir í hendi Þórgunnar en ekki fyrir aftan bílinn!
 4.
 ^^
 
-Langstökkvari yfirgefur jörðina undir :math:`23\ensuremath{^\circ}`
+Langstökkvari yfirgefur jörðina undir :math:`23^\circ`
 horni við lárétt og ferðast 8,7 m lárétt áður en hann lendir aftur á
 jörðunni í sömu hæð. Finnið upphafshraðavigurinn og upphafsferð
 langstökkvarans.
@@ -397,7 +397,7 @@ langstökkvarans.
 
 | Kalli sparkar fótbolta í átt að marki sem er í 29 m fjarlægð frá
   boltanum þar sem hann liggur á jörðinni. Kalli sparkar boltanum þannig
-  að hann fer upp undir :math:`32,0\ensuremath{^\circ}` horni við jörðu
+  að hann fer upp undir :math:`32,0^\circ` horni við jörðu
   í átt að markinu, með ferð (tölugildi hraðavigurs) 19,0 m/s.
 | a) Hver er hraði boltans samsíða jörðu?
 | b) Í hvaða hæð grípur markmaðurinn boltann ef hann grípur boltan rétt
@@ -423,7 +423,7 @@ sem kastað er af þaki B. Hver er hlutfall hæðar húss A og hæðar húss B
 
 | Jónatan er að spilla tennis við Huldu. Hulda er með boltann en Jónatan
   stendur rétt við netið í 10 m fjarlægð frá Huldu. Nú slær Hulda
-  boltann þannig að hann fer upp undir :math:`50,0\ensuremath{^\circ}`
+  boltann þannig að hann fer upp undir :math:`50,0^\circ`
   horni með hraða 15,0 m/s. 0,30 s eftir að Hulda slær boltann byrjar
   Jónatan að hlaupa frá netinu í von um að ná að slá boltann tilbaka
   þegar hann er í hæðinni 2,10 m yfir upphafshæð (þeirri sem Hulda slær
@@ -439,7 +439,7 @@ sem kastað er af þaki B. Hver er hlutfall hæðar húss A og hæðar húss B
 ^^
 
 | Flugvél á að sleppa matarpakka til manna sem eru staddir á palli úti í
-  sjó. Flugvélin er að fljúga niður undir :math:`30\ensuremath{^\circ}`
+  sjó. Flugvélin er að fljúga niður undir :math:`30^\circ`
   horni við lárétt á ferð 240 m/s. Þegar flugvélin er í 2400 m hæð, er
   pakkanum sleppt og hann lendir nákvæmlega á pallinum.
 | a) Hversu langur tími líður frá því pakkanum er sleppt og þar til hann
@@ -454,7 +454,7 @@ sem kastað er af þaki B. Hver er hlutfall hæðar húss A og hæðar húss B
 9.
 ^^
 
-Vatn úr garðslöngu sem vísar upp 25\ :math:`\ensuremath{^\circ}` yfir
+Vatn úr garðslöngu sem vísar upp 25\ :math:`^\circ` yfir
 lárétt lendir beint á manni sem liggur í sólbaði á grasflötinni í 4,4 m
 láréttri fjarlægð frá slönguopinu. Slöngunni er haldið þannig að vatnið
 fer út í 1,4 m hæð yfir grasflötinni. Hver er ferð vatnsins þar sem það

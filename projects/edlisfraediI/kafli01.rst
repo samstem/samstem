@@ -809,8 +809,8 @@ Dæmi
 5. Bíll eykur hraðann úr (30\ :math:`\pm`\ 2) km/klst í
 (80\ :math:`\pm`\ 3) km/klst á (70\ :math:`\pm`\ 4) sekúndum. Reiknið hröðun bílsins með óvissu og skráið niðurstöðuna í SI einingum, með réttum fjölda markverðra stafa.
 
-6. Hafdís var að hita :math:`m = (100\pm 2)\,\text{g}` af vatni. Upphafshitastig vatnsins var :math:`T_1 = (7,3\pm 0,2)\ensuremath{^\circ}\text{C}` en lokahitastig þess er :math:`T_2 = (85,0\pm 0,2)\ensuremath{^\circ}\text{C}`.
-Eðlisvarmi vatns er :math:`c_{\textnormal{vatn}} = (4,186\pm 0,004)\,\text{kJ}/\text{kg}\text{C}\ensuremath{^\circ}`.
+6. Hafdís var að hita :math:`m = (100\pm 2)\,\text{g}` af vatni. Upphafshitastig vatnsins var :math:`T_1 = (7,3\pm 0,2)^\circ\text{C}` en lokahitastig þess er :math:`T_2 = (85,0\pm 0,2)^\circ\text{C}`.
+Eðlisvarmi vatns er :math:`c_{\text{vatn}} = (4,186\pm 0,004)\,\text{kJ}/\text{kg}\text{C}^\circ`.
 
 Notið jöfnuna :math:`Q = c\cdot m\cdot \Delta T` til þess að finna hversu mikinn varma :math:`Q` hún þurfti til þess að hita vatnið. Skráið svarið með óvissu og réttum fjölda markverðra stafa.
 
@@ -829,19 +829,29 @@ Notið jöfnuna :math:`Q = c\cdot m\cdot \Delta T` til þess að finna hversu mi
 Svör
 ^^^^
 
-| 1) :math:`(7,3\pm0,2)` m/s
-| 2) :math:`(1,30\pm0,03)\,g/cm^2`
-| 3) :math:`(240\pm20)\,\text{m}^3`
-| 4) a. :math:`(94\pm1)\,\text{cm}`    b.
-  :math:`(560\pm10)\,\text{cm}^2`
-| 5) :math:`(0,20\pm0,03)\,\text{m}/\text{s}^2`
-| 6) :math:`(32,5\pm0,8)\,`\ kJ
-| 7) :math:`(230\pm80)\,`\ J (eða :math:`(235\pm85)\,`\ J)
-| 8) a. (:math:`130\pm20)\,\text{m}\ell`   b.
-  :math:`(4,2\pm0,7)\,\text{g}/\text{m}\ell`
-| 9) a. :math:`\ell =  (13,1\pm0,1)\,\text{mm}`;
-  :math:`b = (5,2\pm0,1)\,\text{mm}`; Þ =
-  :math:`(2,6\pm0,1)\,\text{mm}`.    b. :math:`(180\pm10)\,\text{mm}^3`.
+1. :math:`(7,3\pm0,2)` m/s
+
+2. :math:`(1,30\pm0,03)\,g/cm^2`
+
+3. :math:`(240\pm20)\,\text{m}^3`
+
+4.   
+  a. :math:`(94\pm1)\,\text{cm}`
+  b. :math:`(560\pm10)\,\text{cm}^2`
+
+5. :math:`(0,20\pm0,03)\,\text{m}/\text{s}^2`
+
+6. :math:`(32,5\pm0,8)\,`\ kJ
+
+7. :math:`(230\pm80)\,`\ J (eða :math:`(235\pm85)\,`\ J)
+
+8. 
+  a. (:math:`130\pm20)\,\text{m}\ell`
+  b. :math:`(4,2\pm0,7)\,\text{g}/\text{m}\ell`
+
+9. 
+  a. :math:`\ell =  (13,1\pm0,1)\,\text{mm}`; :math:`b = (5,2\pm0,1)\,\text{mm}`; Þ = :math:`(2,6\pm0,1)\,\text{mm}`.
+  b. :math:`(180\pm10)\,\text{mm}^3`.
 
 .. |image| image:: myndir/kafli01/reglustika.png
    :width: 100%

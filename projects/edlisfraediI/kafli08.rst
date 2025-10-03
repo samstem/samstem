@@ -169,7 +169,7 @@ umhverfis sólu. Á myndinni má sjá hvernig það horn fæst. Fjarlægð jarð
 frá sólu er yfirleitt kölluð 1 AU :math:`\approx` 1,5 :math:`\cdot`
 10\ :math:`^{11}` Nú er einfalt að finna fjarlægðina d.
 
-.. math:: \frac{1\,\textnormal{AU}}{d} = \tan(\theta)
+.. math:: \frac{1\,\text{AU}}{d} = \tan(\theta)
 
 Með nálguninni að hornið sé mjög lítið fæst:
 :math:`\tan(\theta)\,\, \approx \,\,\theta`. Þetta gildir þó aðeins ef
@@ -180,7 +180,7 @@ hornið í radíönum:
 
 Því er fjarlægð stjörnu með parallax 1 bogasec:
 
-.. math:: d = 1\,\textnormal{AU}\frac{180\cdot3600}{\pi} = 3,09 \cdot 10^{16}\,\text{m}
+.. math:: d = 1\,\text{AU}\frac{180\cdot3600}{\pi} = 3,09 \cdot 10^{16}\,\text{m}
 
 Einingin parsec er í raun bara
 
@@ -245,7 +245,7 @@ reikistjörnunnar um sólu í öðru veldi.
 .. math::
 
    \begin{equation}
-   \frac{a^3}{T^2} = k\,\,\, (\textnormal{fasti})
+   \frac{a^3}{T^2} = k\,\,\, (\text{fasti})
    \end{equation}
 
 Þessi lögmál reyndust gilda um allar reikistjörnurnar.

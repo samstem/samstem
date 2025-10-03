@@ -414,7 +414,7 @@ Dæmi
 
 | Maður togar 20 kg sleða eftir snjóbreiðu með jöfnum hraða. Maðurinn
   togar í sleðann með bandi sem vísar upp á við undir
-  :math:`35\ensuremath{^\circ}` horni. Togkrafturinn í bandinu er
+  :math:`35^\circ` horni. Togkrafturinn í bandinu er
   28,8 N.
 | a) Hversu stór er núningskrafturinn?
 | b) Hversu stór er þverkrafurinn?
@@ -470,7 +470,7 @@ Dæmi
 
 50 kg kassi liggur á láréttu gólfi í skemmu. Það þarf að færa kassann
 til til þess að koma honum fyrir. Kalli ýtir niður á kassann undir
-:math:`34\ensuremath{^\circ}` horni við lárétt með 90 N krafti.
+:math:`34^\circ` horni við lárétt með 90 N krafti.
 Kyrrstöðunúningsstuðullinn milli gólfs og kassa er 0,60. Tekst Kalla að
 færa kassann?
 
@@ -480,7 +480,7 @@ færa kassann?
 ^^
 
 | 800 N kubbur liggur á skáplani sem myndar
-  :math:`30\ensuremath{^\circ}` horn við lárétt. Stína notar kraftmæli
+  :math:`30^\circ` horn við lárétt. Stína notar kraftmæli
   og sér að ef hún togar í kubbinn upp samsíða planinu með 200 N krafti
   þá fer kubburinn niður planið á jöfnum hraða.
 | a) Hver er hreyfinúningsstuðullinn milli plansins og kubbsins?
